@@ -1,3 +1,6 @@
+# Name: Diviya Dharshini.P
+# Reg no:212224040080
+# Date:28.02.25
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
