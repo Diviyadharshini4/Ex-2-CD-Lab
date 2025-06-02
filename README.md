@@ -1,4 +1,4 @@
-# Name: Diviya Dharshini.P
+# Name: Diviya Dharshini.A
 # Reg no:212224040080
 # Date:28.02.25
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
